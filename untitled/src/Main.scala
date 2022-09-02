@@ -1,5 +1,15 @@
 import scala.io.StdIn.readLine
 import scala.util.control.Breaks.break
+/**
+ * Version: 1.0
+ *
+ * Purpose: Pre-interview Exercise for Developer Candidates
+ *
+ * MODIFICATION HISTORY
+ * Person      Date        Comments
+ * ---------   ----------  ------------------------------------------
+ * S.Tamar     28/08/2022  Created
+ */
 
 object Main {
   var x: Any => Any = _
